@@ -16,3 +16,8 @@ import "fmt"
 func main() {
 	fmt.Println("hello world")
 }
+
+// Drag your cursor over this code and hit cmd+shit+p or alt+p to add it to a playbook
+func selectMe() {
+
+}
