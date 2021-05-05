@@ -1,2 +1,2 @@
-# playbooks-demo
-Demo Repo For Introing Playbooks
+# Notebooks Demo
+Demo Repo For Introing Notebooks
